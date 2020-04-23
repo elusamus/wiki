@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Raivo wiki
 
 
 <!--
@@ -21,6 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Mitokondrid](pages/mitokondrid.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
